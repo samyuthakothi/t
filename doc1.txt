@@ -1,0 +1,31 @@
+**Q**:Give me some idea on what is a Data type. What are Primitive Data types and Non-Primitive Data types. Explain with some examples.
+ Ans:---
+Data Type:It specifies the type of data that variable can hold.
+
+Primitive Data types:these are the predifined data types by the programming languages and these are mutable
+Integer :  It Stores whole numbers.
+Ex: int age = 25;
+Float:  It Stores decimal numbers.
+Ex: float price = 19.99;
+Character :  It Stores a single character.
+Ex: char grade = 'A';
+Boolean :  It Stores true or false values.
+Ex: bool isRaining = false;
+String :  It Represents a sequence of characters .
+Ex: String name = "Alice".
+--------------------------------------------------------------------------------------------------------------------
+
+ Non-Primitive Data types:These are  derived from primitive types and are used to store collections of values, objects, or more complex data structures.
+Arrays: Collection of elements of the same type.
+Ex: int[] numbers = {1, 2, 3, 4};
+Interfaces:  It Defines the contract of methods that implementing classes must provide.
+Ex:
+interface Animal {
+    void sound();
+}
+Enumerations (enum):  It is used to define a fixed set of constants.
+
+
+
+
+ 
